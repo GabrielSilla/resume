@@ -8,7 +8,7 @@ Github: www.github.com/gabrielsilla
 ## Sobre
 
 Gabriel é um desenvolvedor .NET Junior que adora programar e aprender novas tecnologias. Ele já possui experiência em algumas linguagens como, Python, .NET, Android antivo, JavaScript.</br>
-Gabriel é capaz de desenhar e desenvolver tanto sistemas simples, quanto sistemas complexos. É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. 
+Também é capaz de desenhar e desenvolver sistemas simples e realizar manutenções em sistemas complexos. É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios.
 
 ## Conhecimentos de TI
 
@@ -22,4 +22,4 @@ Gabriel é capaz de desenhar e desenvolver tanto sistemas simples, quanto sistem
 
 ## Experiência Profissional
 
-**Cuponomia - Estagiário de Desenvolvimento Web (dez/2016 até jan/2018):** Manutenção e desenvolvimento de novos módulos para o site do Cuponomia utilizando C#. Desenvolvimento e manutenção da extensão do Cuponomia para Google Chrome utilizando HTML, CSS, JavaScript e JQuery, e também ferramentas para sistemas satélite a fim de suportar as equipes de marketing e conteúdo utilizando diversas linguagens e tecnologias, dentre elas, Python com Scrapy, C# com Selenium, criação de relatórios em arquivos CSV utilizando Python para consumir as API's da AWS e Google AdWords e Bing;
+**Cuponomia - Estagiário de Desenvolvimento Web (dez/2015 até jan/2018):** Manutenção e desenvolvimento de novos módulos para o site do Cuponomia utilizando C#. Desenvolvimento e manutenção da extensão do Cuponomia para Google Chrome utilizando HTML, CSS, JavaScript e JQuery, e também ferramentas para sistemas satélite a fim de suportar as equipes de marketing e conteúdo utilizando diversas linguagens e tecnologias, dentre elas, Python com Scrapy, C# com Selenium, criação de relatórios em arquivos CSV utilizando Python para consumir as API's da AWS e Google AdWords e Bing;
