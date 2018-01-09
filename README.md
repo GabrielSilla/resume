@@ -1,7 +1,7 @@
 # Gabriel da Silva Melo Silla
 
 21 anos - Mauá - SP - Brasil</br>
-Cel.: (+55 11)94385-6682 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skype: gabriel.silla2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
+Cel.: (+55 11) 95436-4870 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skype: gabriel.silla2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
 Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
 Github: www.github.com/gabrielsilla 
 
