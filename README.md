@@ -7,7 +7,7 @@ Github: www.github.com/gabrielsilla
 
 ## Sobre
 
-Gabriel é um desenvolvedor .NET Pleno que adora programar e aprender novas tecnologias. Ele já possui experiência em algumas linguagens como, Python, .NET, Android antivo, JavaScript.</br>
+Gabriel é um desenvolvedor .NET Pleno que adora programar e aprender novas tecnologias. Ele já possui experiência em algumas linguagens como, Python, .NET, Android nativo, JavaScript.</br>
 Também é capaz de desenhar e desenvolver sistemas simples e de média complexidade e realizar manutenções em sistemas complexos. É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios.
 
 ## Conhecimentos de TI
