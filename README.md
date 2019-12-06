@@ -1,23 +1,23 @@
 # Gabriel da Silva Melo Silla
 
-22 anos - Mauá - SP - Brasil</br>
-Cel.: (+55 11) 95436-4870 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skype: gabriel.silla2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
+23 anos - Assis - SP - Brasil</br>
+Cel.: (+55 18) 99170-0522 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skype: gabriel.silla2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
 Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
 Github: www.github.com/gabrielsilla 
 
 ## Sobre
 
-Gabriel é um desenvolvedor .NET Pleno que adora programar e aprender novas tecnologias. Ele já possui experiência em algumas linguagens como, Python, .NET, Android nativo, JavaScript.</br>
+Gabriel é um desenvolvedor .NET Pleno que adora programar e aprender novas tecnologias. Ele já possui experiência em algumas linguagens como, Python, .NET, Java, Android nativo, JavaScript.</br>
 Também é capaz de desenhar e desenvolver sistemas simples e de média complexidade e realizar manutenções em sistemas complexos. É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios.
 
 ## Conhecimentos de TI
 
-**Desenvolvimento Web:** .Net (Asp.Net MVC 4 e 5, Selenium, Nancy Framework), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, RequireJS, JQuery, VueJs;</br>
+**Desenvolvimento Web:** .Net (Asp.Net MVC 4 e 5, Selenium, Nancy Framework), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, RequireJS, JQuery, VueJs, Angular;</br>
 **Banco de Dados:** Microsoft Sql Server,MySQL, PostgreSQL, Redis, Redshift; MongoDB</br>
-**Outros:** TDD, DDD, SOLID, Scrum, Integração Continua (git + jenkins), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
+**Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + jenkins), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
 
 ## Acadêmico
-**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Caetano do Sul - Previsão de conclusão em 12/2018</br>
+**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Caetano do Sul - Interrompida </br>
 **Inglês** - Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional
