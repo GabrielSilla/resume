@@ -1,14 +1,14 @@
 # Gabriel da Silva Melo Silla
 
-23 anos - Assis - SP - Brasil</br>
+25 anos - Assis - SP - Brasil</br>
 Cel.: (+55 18) 99170-0522 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skype: gabriel.silla2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
 Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
 Github: www.github.com/gabrielsilla 
 
 ## Sobre
 
-Gabriel é um desenvolvedor .NET Pleno que adora programar e aprender novas tecnologias. Ele já possui experiência em algumas linguagens como, Python, .NET, Java, Android nativo, JavaScript.</br>
-Também é capaz de desenhar e desenvolver sistemas simples e de média complexidade e realizar manutenções em sistemas complexos. É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios.
+Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tecnologias. Já possui experiência em algumas linguagens como, Python, .NET, Java, Android nativo, JavaScript.</br>
+É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. Já possuí 6 anos de experiência na área e está buscando constante evolução.
 
 ## Conhecimentos de TI
 
@@ -26,4 +26,8 @@ Também é capaz de desenhar e desenvolver sistemas simples e de média complexi
 
 **Social Miner - Desenvolvedor .NET Junior (jan/2018 até dez/2018):** Criação de novas API's em C# utilizando o Nancy Framework e arquitetura de microserviços. Manutenção de API's existentes e desenvolvimento de novas features. Análise de dados utilizando MySQL e NoSQL (MongoDB). Manutenção e desenvolvimentos de novas features para a SDK do site, utilizando a library React do Javascript. Foram realizados também tratamentos de big data utilizando C# e Apache Spark. Manutenção de bugs relacionados à plataforma, realizando trabalhos de Front-End e Back-End.
 
-**VSM Informática - Analista Programador Júnior (jan/2019 até atualmente):** Participação direta na criação de uma plataforma de ecommerce, utilizando Java com SpringBoot para a estruturação do back-end, juntamente com testes automatizados combinando o BDD do cucumber com o Selenium e MySQL para o banco de dados. Também foram aplicados conhecimentos de Angular para a estruturação do front-end.
+**VSM Informática - Analista Programador Júnior II (jan/2019 até set/2020):** Participação direta na criação de uma plataforma de ecommerce, utilizando Java com SpringBoot para a estruturação do back-end, juntamente com testes automatizados combinando o BDD do cucumber com o Selenium e MySQL para o banco de dados. Também foram aplicados conhecimentos de Angular para a estruturação do front-end.
+
+**TOTVS AGRO - Analista de Desenvolvimento (set/2020 até mar/2021):** Criação e manutenção de um app mobile para beneficiamento de algodão. Foi usado Angular com Ionic para front-end, Java com SpringBoot para o back-end e PostgreSQL como Database. Para os builds mobile foram utilizados o cordova, junto com Android Studio para a geração dos arquivos APK. Também foram feitas manutenções em um sistema legado escrito em ASP.NET MVC.
+
+**Beta Learning - Desenvolvedor FullStack (mar/2021 até atualmente):** Criação de um Chatbot escrito em .Net Core 3.1, um painel de controle escrito em Angular 11, com back-end também em .Net Core 3.1. Também foi utilizado o MongoDB como banco de dados compartilhado entre os projetos.
