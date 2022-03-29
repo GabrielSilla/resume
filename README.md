@@ -30,4 +30,7 @@ Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tec
 
 **TOTVS AGRO - Analista de Desenvolvimento (set/2020 até mar/2021):** Criação e manutenção de um app mobile para beneficiamento de algodão. Foi usado Angular com Ionic para front-end, Java com SpringBoot para o back-end e PostgreSQL como Database. Para os builds mobile foram utilizados o cordova, junto com Android Studio para a geração dos arquivos APK. Também foram feitas manutenções em um sistema legado escrito em ASP.NET MVC.
 
-**Beta Learning - Desenvolvedor FullStack (mar/2021 até atualmente):** Criação de um Chatbot escrito em .Net Core 3.1, um painel de controle escrito em Angular 11, com back-end também em .Net Core 3.1. Também foi utilizado o MongoDB como banco de dados compartilhado entre os projetos.
+**Beta Learning - Desenvolvedor FullStack (mar/2021 até dez/2021):** Criação de um Chatbot escrito em .Net Core 3.1, um painel de controle escrito em Angular 11, com back-end também em .Net Core 3.1. Também foi utilizado o MongoDB como banco de dados compartilhado entre os projetos.
+
+**Mout's TI - Desenvolvedor FullStack Sênior (mar/2021 até dez/2021):** Alocado dentro da Ambev. Foram feitas manutenções nos sistemas legados baseados em .Net Framework 4.8. Também foram criadas Azure Functions baseadas em .Net Core 3.1 para integrações, com o intuito serem uma camada ACL Serverless. Também foram feitas manutenções e desenvolvidas novas features em um projeto de Front-end desenvolvido em Angular 11.
+
