@@ -1,7 +1,8 @@
 # Gabriel da Silva Melo Silla
 
 26 anos - Assis - SP - Brasil</br>
-Cel.: (+55 18) 99170-0522 &nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
+Cel.: (+55 18) 99170-0522
+Email: gabriel.silla2@hotmail.com</br>
 Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
 Github: www.github.com/gabrielsilla 
 
