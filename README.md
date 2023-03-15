@@ -13,7 +13,7 @@ Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tec
 
 ## Conhecimentos de TI
 
-**Desenvolvimento Web:** .Net (6, 7, Core 3.1, Asp.Net MVC 4 e 5, Selenium, Nancy Framework, EF), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, JQuery, Angular;</br>
+**Desenvolvimento Web:** .Net (6, 7, Core 3.1, Asp.Net MVC 4 e 5, Selenium, Nancy Framework, EF), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, JQuery, Angular, React;</br>
 **Banco de Dados:** Microsoft Sql Server, MySQL, PostgreSQL, Redis, MongoDB, DynamoDB</br>
 **Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + (Jenkins ou Azure)), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
 
