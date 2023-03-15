@@ -1,7 +1,7 @@
 # Gabriel da Silva Melo Silla
 
 26 anos - Assis - SP - Brasil</br>
-Cel.: (+55 18) 99170-0522 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skype: gabriel.silla2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
+Cel.: (+55 18) 99170-0522 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: gabriel.silla2@hotmail.com</br>
 Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
 Github: www.github.com/gabrielsilla 
 
@@ -14,7 +14,7 @@ Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tec
 
 **Desenvolvimento Web:** .Net (6, 7, Core 3.1, Asp.Net MVC 4 e 5, Selenium, Nancy Framework, EF), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, JQuery, Angular;</br>
 **Banco de Dados:** Microsoft Sql Server, MySQL, PostgreSQL, Redis, MongoDB, DynamoDB</br>
-**Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + (Jenkins ou Azure), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
+**Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + (Jenkins ou Azure)), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
 
 ## Acadêmico
 **Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Caetano do Sul - Interrompida </br>
