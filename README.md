@@ -9,7 +9,7 @@ Github: www.github.com/gabrielsilla
 ## Sobre
 
 Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tecnologias. Já possui experiência em algumas linguagens como, Python, .NET, Java, Android nativo, JavaScript.</br>
-É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. Já possuí 6 anos de experiência na área e está buscando constante evolução.
+É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. Já possuí 7 anos de experiência na área e está buscando constante evolução.
 
 ## Conhecimentos de TI
 
