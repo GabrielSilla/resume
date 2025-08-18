@@ -1,6 +1,6 @@
 # Gabriel da Silva Melo Silla
 
-27 anos - Assis - SP - Brasil</br>
+29 anos - Assis - SP - Brasil</br>
 Cel.: (+55 18) 99170-0522</br>
 Email: gabriel.silla2@hotmail.com</br>
 Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
@@ -8,17 +8,18 @@ Github: www.github.com/gabrielsilla
 
 ## Sobre
 
-Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tecnologias. Já possui experiência em algumas linguagens como, Python, .NET, Java, Android nativo, JavaScript.</br>
-É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. Já possuí 7 anos de experiência na área e está buscando constante evolução.
+Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tecnologias. Já possui experiência em algumas tecnologias como: Python, .NET, Java, Android, JavaScript, React, Angular e etc</br>
+É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. Já possuí 9 anos de experiência na área e está buscando constante evolução.
 
 ## Conhecimentos de TI
 
-**Desenvolvimento Web:** .Net (6, 7, Core 3.1, Asp.Net MVC 4 e 5, Selenium, Nancy Framework, EF), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, JQuery, Angular, React;</br>
+**Desenvolvimento Web:** .Net (Framework, Core, Asp.Net MVC 4 e 5, Selenium, Nancy Framework, EF, NHibernate), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, JQuery, Angular, React, VueJs;</br>
 **Banco de Dados:** Microsoft Sql Server, MySQL, PostgreSQL, Redis, MongoDB, DynamoDB</br>
 **Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + (Jenkins ou Azure)), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
 
 ## Acadêmico
-**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Caetano do Sul - Interrompida </br>
+**Curso Técnico em Informática** - ETEC Pedro D'Arcadia Neto </br>
+**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Caetano do Sul - Antônio Russo </br>
 **Inglês** - Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional
@@ -37,5 +38,5 @@ Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tec
 
 Porém, a maior atuação foi com APIs Rest, utilizando .Net 6, 7 e MongoDB. Onde criamos um dos mais novos produtos com a tarefa de auxiliar e melhorar a logística de entregas e atendimento aos clientes B2B e B2C da companhia com auxílio direto dos desenvolvedores da AWS. Esse produto ainda se integrava com outros, utilizando mensageria via Service Bus e chamadas HTTP, com objetivo de coletar informações e executar funções Lambda dentro de uma infra AWS que posteriormente executariam o algoritmo de otimização de entregas (criado pela própria AWS).
 
-**Inventti - Desenvolvedor .NET Sênior (mar/2023 até atualmente):** Criação e desenvolvimento de novos produtos em .NET 5 e 6. Manutenção dos Edocs existentes e criação de novas features em .NET Core e projetos legados usando .Net Framework 4.5 e 4.7. Também atuo com Java 11 em um produto para um cliente especifico atuando com desenvolvimento de Java para desktop e alguns poucos desenvolvimentos para Java Android (SDK 28).
+**Inventti - Desenvolvedor .NET Sênior (mar/2023 até atualmente):** Atuação e desenvolvimento direto nos produtos de mensageria fiscal da empresa: NFe, NFCe, CTe, DCe e etc. Atuando em criação e desenvolvimento de novos produtos em .NET 5, 6, 7 e 8. Manutenção dos produtos existentes e desenvolvimento de novas features em .NET Core e projetos legado escritos em .Net Framework 4.5 e 4.7, e outras tecnologias como MongoBD, SQLServer, RabbitMQ (Mass Transit e biblioteca interna para gerenciamento de brokers), Azure Storage, AWS S3. Criação de bibliotecas Nuget para componentizar elementos comuns entre os produtos da empresa escritos em C#. Também houveram atuações menores em produtos ecritos em VueJS e Java 11 para Desktop e Android.
 
