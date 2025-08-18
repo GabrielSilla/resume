@@ -18,9 +18,9 @@ Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tec
 **Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + (Jenkins ou Azure)), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
 
 ## Acadêmico
-**Curso Técnico em Informática** - ETEC Pedro D'Arcadia Neto </br>
-**Graduação em Análise e Desenvolvimento de Sistemas** - FATEC São Caetano do Sul - Antônio Russo </br>
-**Inglês** - Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
+**Curso Técnico em Informática**: ETEC Pedro D'Arcadia Neto </br>
+**Graduação em Análise e Desenvolvimento de Sistemas**: FATEC São Caetano do Sul - Antônio Russo </br>
+**Inglês**: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
 
 ## Experiência Profissional
 
