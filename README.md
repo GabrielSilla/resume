@@ -1,42 +1,126 @@
-# Gabriel da Silva Melo Silla
+# Gabriel Silla  
+**Senior .NET Developer**  
+Assis, SP — Brazil | +55 (18) 99170-0522 | gabriel.silla2@hotmail.com  
+GitHub: github.com/gabrielsilla | LinkedIn: linkedin.com/in/gabriel-silla-596272108/
 
-29 anos - Assis - SP - Brasil</br>
-Cel.: (+55 18) 99170-0522</br>
-Email: gabriel.silla2@hotmail.com</br>
-Linkedin: www.linkedin.com/in/gabriel-silla-596272108/</br>
-Github: www.github.com/gabrielsilla 
+---
 
-## Sobre
+## Professional Summary
+Senior .NET Developer with 9+ years of experience building high-performance applications, distributed systems, and enterprise integrations. Strong background in .NET Core/Framework, REST APIs, microservices, cloud services (AWS/Azure), and scalable messaging solutions. Experienced working with global teams, high-volume environments, and mission-critical systems such as fiscal document platforms (NFe, NFCe, CTe, DCe). Fast learner, adaptable, and passionate about delivering clean, maintainable and efficient software.
 
-Gabriel é um desenvolvedor .NET Senior que adora programar e aprender novas tecnologias. Já possui experiência em algumas tecnologias como: Python, .NET, Java, Android, JavaScript, React, Angular e etc</br>
-É capaz de aprender rapidamente o que é proposto e sempre está procurando novos desafios. Já possuí 9 anos de experiência na área e está buscando constante evolução.
+---
 
-## Conhecimentos de TI
+## Core Skills
 
-**Desenvolvimento Web:** .Net (Framework, Core, Asp.Net MVC 4 e 5, Selenium, Nancy Framework, EF, NHibernate), Java(SpringBoot, Hibernate, Cucumber), Python com Scrapy, Android nativo, consumo de webservices, HTML, CSS, LESS, Javascript, JQuery, Angular, React, VueJs;</br>
-**Banco de Dados:** Microsoft Sql Server, MySQL, PostgreSQL, Redis, MongoDB, DynamoDB</br>
-**Outros:** TDD, BDD, DDD, SOLID, Scrum, Integração Continua (git + (Jenkins ou Azure)), AWS, Google AdWords Reports, Bing Reports, Engenharia de Software, Hardware;</br>
+### **Backend**
+- .NET 5/6/7/8, ASP.NET Core, .NET Framework (4.5–4.8)  
+- C#, REST APIs, Microservices, Integration APIs  
+- Java (Spring Boot), Node.js (basic), Python (Scrapy), Selenium  
+- Messaging: RabbitMQ, MassTransit, Azure Service Bus  
 
-## Acadêmico
-**Curso Técnico em Informática**: ETEC Pedro D'Arcadia Neto </br>
-**Graduação em Análise e Desenvolvimento de Sistemas**: FATEC São Caetano do Sul - Antônio Russo </br>
-**Inglês**: Avançado e em desenvolvimento: conversação avançada, escrita avançada e leitura fluente.</br>
+### **Frontend**
+- Angular (2–11), React, Vue.js  
+- HTML5, CSS, JavaScript, JQuery  
 
-## Experiência Profissional
+### **Cloud & DevOps**
+- AWS (Lambda, S3, SQS, DynamoDB), Azure Storage, Azure Functions  
+- CI/CD with Git, Jenkins, Azure DevOps  
+- Docker, Serverless architectures  
 
-**Cuponomia - Estagiário de Desenvolvimento Web (dez/2015 até jan/2018):** Manutenção e desenvolvimento de novos módulos para o site do Cuponomia utilizando C#. Desenvolvimento e manutenção da extensão do Cuponomia para Google Chrome utilizando HTML, CSS, JavaScript e JQuery, e também ferramentas para sistemas satélite a fim de suportar as equipes de marketing e conteúdo utilizando diversas linguagens e tecnologias, dentre elas, Python com Scrapy, C# com Selenium, criação de relatórios em arquivos CSV utilizando Python para consumir as API's da AWS e Google AdWords e Bing;
+### **Databases**
+- SQL Server, MySQL, PostgreSQL  
+- MongoDB, Redis, DynamoDB  
 
-**Social Miner - Desenvolvedor .NET Junior (jan/2018 até dez/2018):** Criação de novas API's em C# utilizando o Nancy Framework e arquitetura de microserviços. Manutenção de API's existentes e desenvolvimento de novas features. Análise de dados utilizando MySQL e NoSQL (MongoDB). Manutenção e desenvolvimentos de novas features para a SDK do site, utilizando a library React do Javascript. Manutenção de bugs relacionados à plataforma, realizando trabalhos de Front-End e Back-End.
+### **Software Practices**
+- TDD, BDD, DDD, SOLID  
+- Clean Architecture, Microservices  
+- Agile (Scrum)
 
-**VSM Informática - Analista Programador Júnior II (jan/2019 até set/2020):** Participação direta na criação de uma plataforma de ecommerce, utilizando Java com SpringBoot para a estruturação do back-end, juntamente com testes automatizados combinando o BDD do cucumber com o Selenium e MySQL para o banco de dados. Também foram aplicados conhecimentos de Angular para a estruturação do front-end.
+---
 
-**TOTVS AGRO - Analista de Desenvolvimento (set/2020 até mar/2021):** Criação e manutenção de um app mobile para beneficiamento de algodão. Foi usado Angular com Ionic para front-end, Java com SpringBoot para o back-end e PostgreSQL como Database. Para os builds mobile foram utilizados o cordova, junto com Android Studio para a geração dos arquivos APK. Também foram feitas manutenções em um sistema legado escrito em ASP.NET MVC.
+## Professional Experience
 
-**Beta Learning - Desenvolvedor FullStack (mar/2021 até dez/2021):** Criação de um Chatbot escrito em .Net Core 3.1, um painel de controle escrito em Angular 11, com back-end também em .Net Core 3.1. Também foi utilizado o MongoDB como banco de dados compartilhado entre os projetos.
+### **Senior .NET Developer — Inventti**  
+*Mar 2023 – Present | Brazil (Remote)* 
 
-**Mout's TI - Desenvolvedor FullStack Sênior (dez/2021 até mar/2023):** Alocado dentro da Ambev. Foram feitas manutenções nos sistemas legados baseados em .Net Framework 4.8. Também foram criadas Azure Functions baseadas em .Net Core 3.1 para integrações, com o intuito serem uma camada ACL Serverless. Também foram feitas manutenções e desenvolvidas novas features em um projeto de Front-end desenvolvido em Angular 11, e criado um front para um dos novos projetos da companhia usando React 17.
+Development of new projects using .NET 8/9 and maintenance of legacy systems built on .NET Framework 4.x.
+In Brazil, several types of electronic tax documents exist (NFe, NFCe, NFSe, CTe, DCe, NF3e, NFAg), each with different regulatory and operational requirements. I worked on systems responsible for authorizing these documents through government APIs, ensuring compliance and reliability.
+Built new products for upcoming document types using .NET, RabbitMQ for asynchronous processing, SQL Server as the main database, and Azure Blob Storage for XML document storage.
+Developed and maintained Java Android applications used by clients to submit tax documents to our APIs. This Android “Agent” application enriches incoming XML with required data before submitting it to the main authorization APIs.
+Contributed to a front-end project built with Vue.js and a .NET backend, using MongoDB as the database.
 
-Porém, a maior atuação foi com APIs Rest, utilizando .Net 6, 7 e MongoDB. Onde criamos um dos mais novos produtos com a tarefa de auxiliar e melhorar a logística de entregas e atendimento aos clientes B2B e B2C da companhia com auxílio direto dos desenvolvedores da AWS. Esse produto ainda se integrava com outros, utilizando mensageria via Service Bus e chamadas HTTP, com objetivo de coletar informações e executar funções Lambda dentro de uma infra AWS que posteriormente executariam o algoritmo de otimização de entregas (criado pela própria AWS).
+---
 
-**Inventti - Desenvolvedor .NET Sênior (mar/2023 até atualmente):** Atuação e desenvolvimento direto nos produtos de mensageria fiscal da empresa: NFe, NFCe, CTe, DCe e etc. Atuando em criação e desenvolvimento de novos produtos em .NET 5, 6, 7 e 8. Manutenção dos produtos existentes e desenvolvimento de novas features em .NET Core e projetos legado escritos em .Net Framework 4.5 e 4.7, e outras tecnologias como MongoBD, SQLServer, RabbitMQ (Mass Transit e biblioteca interna para gerenciamento de brokers), Azure Storage, AWS S3. Criação de bibliotecas Nuget para componentizar elementos comuns entre os produtos da empresa escritos em C#. Também houveram atuações menores em produtos ecritos em VueJS e Java 11 para Desktop e Android.
+### **Senior Full-Stack Developer — Mout’s TI (Allocated to Ambev)**  
+*Dec 2021 – Mar 2023 | Brazil*  
 
+Worked within Ambev Tech, in creation of products built with Azure Functions serving as an anti-corruption and validation layer.
+Maintained front-end applications in Angular, and participated in the development of a new product using React.
+Main responsibilities focused on RESTful APIs developed in .NET 6/7 and backed by MongoDB.
+Built a new logistics improvement platform to optimize delivery operations and customer service for B2B and B2C clients. 
+Also integrated this platform with multiple other systems using Azure Service Bus messaging and HTTP microservice communication.
+
+Also worked on features running in an AWS environment, including triggering and processing Lambda functions.
+
+---
+
+### **Full-Stack Developer — Beta Learning**  
+*Mar 2021 – Dec 2021 | Brazil*  
+
+Responsible for the maintenance and modernization of a chatbot system for a large car dealership.
+The system was originally built in ASP.NET MVC and was outdated, so I separated the solution into independent front-end and back-end applications.
+Migrated the backend to .NET Core 3.1, applying Clean Code and Clean Architecture principles.
+Developed the chatbot control panel using Angular 11 with CoreUI components.
+All chatbot interaction history and business data were stored in MongoDB.
+
+---
+
+### **Systems Developer — TOTVS Agro**  
+*Sep 2020 – Mar 2021 | Brazil*  
+
+Development and maintenance of a mobile application for cotton processing operations.
+Used Angular + Ionic for the front-end, and Java + Spring Boot for the API layer.
+Managed mobile builds with Cordova, using Android Studio to generate production APKs.
+Also performed maintenance on legacy systems built with ASP.NET MVC.
+
+---
+
+### **Developer (Java/.NET) — VSM Informática**  
+*Jan 2019 – Sep 2020 | Brazil*  
+
+Developed an e-commerce platform using Java + Spring Boot for backend and Angular with Angular Material and CoreUI for the front-end.
+Participated in the creation of three main components: the website, the admin panel, and the RESTful API contributing to architecture, development, and feature implementation in all of them.
+Implemented automated testing using BDD with Cucumber and Selenium.
+The system used MySQL as the database.
+
+---
+
+### **Junior .NET Developer — Social Miner**  
+*Jan 2018 – Dec 2018 | Brazil*  
+
+Creation of new APIs in C# using the Nancy Framework (microservices architecture). 
+Maintenance of existing APIs and development of new features. 
+Maintenance and development of new features for the website's SDK with React. 
+Big data processing was also performed using C# and Apache Spark.
+
+---
+
+### **Web Development Intern — Cuponomia**  
+*Dec 2015 – Jan 2018 | Brazil*  
+
+Maintenance and development of new modules for the Cuponomia website using C#.
+Development of the Cuponomia extension for Google Chrome using
+HTML, CSS, JavaScript, and jQuery.
+Creation and maintenance of tools to support marketing and content teams using various languages ​​and technologies, including Python with Scrapy, C# with Selenium.
+Creation of reports in CSV files using Python to consume the AWS, Google AdWords, and Bing APIs;
+
+---
+
+## Education
+**Associate Degree — Systems Analysis and Development**  (Interrupted)
+FATEC São Caetano do Sul  
+
+**Technical Diploma — Informatics**  
+ETEC Pedro D'Arcadia Neto  
+
+**English:** Advanced — fluent reading, advanced writing, advanced conversation.
